@@ -33,7 +33,7 @@ A simple **Admin Dashboard** built with **Next.js** and **TypeScript**. This app
 
 ---
 
-## ✨ Optional Extras (if implemented)
+## ✨ Optional Extras 
 - Form animations with `framer-motion`
 - Save form progress using `localStorage`
 - Light/Dark mode using **Tailwind CSS**
@@ -54,7 +54,7 @@ A simple **Admin Dashboard** built with **Next.js** and **TypeScript**. This app
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/user-dashboard.git
+git clone https://github.com/sujitkumr/User_managemnet_Dashboard.git
 
 # Navigate into the folder
 cd user-dashboard
