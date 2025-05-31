@@ -49,7 +49,7 @@ A simple **Admin Dashboard** built with **Next.js** and **TypeScript**. This app
 
 - **Next.js + TypeScript**
 - **Tailwind CSS** or CSS Modules
-- **Axios** or Fetch API
+- **Fetch API
 - Optional: `framer-motion`, `react-hook-form`, `zod`
 
 ---
